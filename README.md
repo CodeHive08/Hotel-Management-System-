@@ -127,6 +127,10 @@ hotel-management-system/
 - `CheckOut.java` - Check-out processing
 
 ## 🎨 Screenshots
+<img width="1920" height="1067" alt="1" src="https://github.com/user-attachments/assets/910039b6-c9ce-4749-93c2-ef1e19f1ec36" />
+<img width="1911" height="1080" alt="2" src="https://github.com/user-attachments/assets/33d5005d-34e8-4abe-a4b7-28f505e4a162" />
+<img width="1918" height="1080" alt="3" src="https://github.com/user-attachments/assets/3ee38dae-773b-4bb2-b373-ded2b7bbf928" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/aea1ca80-aa29-4dfd-92af-88d05631120d" />
 
 The application includes a rich visual interface with:
 - Modern login screen with animated elements
